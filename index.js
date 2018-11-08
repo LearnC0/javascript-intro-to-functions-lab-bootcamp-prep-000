@@ -15,16 +15,16 @@ return console.log('hello')
 }
 
 function sayHiToGrandma(string) {
-if (string.toLowerCase() === string)
+if (String.toLowerCase() === String)
 return ('I can\'t hear you!') 
 }
 
 function sayHiToGrandma(string) {
-if (string.toUpperCase() === string)
+if (String).toUpperCase('HELLO') === String)
 return ('YES INDEED!') 
 }
 
 function sayHiToGrandma(string) {
-if (string === "I love you, Grandma")
+if (String === "I love you, Grandma")
 return ("I love you, too")
 }
