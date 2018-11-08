@@ -19,5 +19,12 @@ if (string.toLowerCase() === string)
 return ("I can\'t hear you!") 
 }
 
-sayHiToGrandma('YES INDEED!') //
-sayHiToGrandma('I love you,Grandma') //
+{
+if (string.toUpperCase() === string)
+return ("YES INDEED!") 
+}
+
+{
+if (string === "I love you, Grandma")
+return ("I love you,Grandma") 
+}
