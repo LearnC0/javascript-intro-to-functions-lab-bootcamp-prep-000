@@ -18,6 +18,6 @@ function sayHiToGrandma(string) {
 console.log(string)
 }
 
-sayHiToGrandma().toLowerCase()
-sayHiToGrandma().toUpperCase()
+sayHiToGrandma('I can\'t hear you!')
+sayHiToGrandma('YES INDEED!')
 sayHiToGrandma('I love you, too.')
