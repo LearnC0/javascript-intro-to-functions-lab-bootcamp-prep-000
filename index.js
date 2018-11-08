@@ -20,11 +20,11 @@ return ('I can\'t hear you!')
 }
 
 function sayHiToGrandma(string) {
-if (String).toUpperCase('HELLO') === String)
+ if (String).toUpperCase() === String)
 return ('YES INDEED!') 
 }
 
 function sayHiToGrandma(string) {
-if (String === "I love you, Grandma")
+ if (String === "I love you, Grandma")
 return ("I love you, too")
 }
