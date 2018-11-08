@@ -18,6 +18,6 @@ function sayHiToGrandma() {
 console.log(string)
 }
 
-sayHiToGrandma()
+sayHiToGrandma(string).toLowerCase
 sayHiToGrandma()
 sayHiToGrandma('I love you, too.')
