@@ -18,6 +18,6 @@ function sayHiToGrandma(string) {
 console.log(string)
 }
 
-sayHiToGrandma('I can\'t hear you!')
-sayHiToGrandma('YES INDEED!')
-sayHiToGrandma('I love you, too.')
+sayHiToGrandma('I can\'t hear you!') //
+sayHiToGrandma('YES INDEED!') //
+sayHiToGrandma('I love you,Grandma') //
