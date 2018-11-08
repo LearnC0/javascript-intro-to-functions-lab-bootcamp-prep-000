@@ -15,7 +15,7 @@ return console.log('hello')
 }
 
 function sayHiToGrandma(string) {
-  return `hello!`
+  return `hello!` $
   console.log()
 }
 sayHiToGrandma('I can\'t hear you!')
